@@ -1,4 +1,5 @@
-Nome do Projeto Agendamento de uma barbearia
+Agendamento de uma barbearia
+
 Este projeto consiste em uma API RESTful desenvolvida em Java com Spring Boot, focada no gerenciamento de agendamentos, serviços, profissionais e clientes. O projeto utiliza o Swagger UI para documentação interativa e testes dos endpoints.
 
 🚀 Tecnologias Utilizadas
